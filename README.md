@@ -7,8 +7,8 @@ I'm passionate about **data analysis**, **scientific research**, and making info
 
 ## 🎓 Education
 
-- 📘 Master's Student in [Computer Science (Big data), Chung-Ang University] 
-- 🎓 B.S. in [Information and communications Engineering] & [English Interpretation and Translation], [Hankuk university of Foregin Studies]
+- 📘 Master's Student in Computer Science, Chung-Ang University 
+- 🎓 B.S. in Information and communications Engineering & English Interpretation and Translation, Hankuk university of Foregin Studies
 
 ---
 
@@ -28,8 +28,6 @@ I'm passionate about **data analysis**, **scientific research**, and making info
   - Visualization of multi-journal metrics
 
 - **Research Intelligence**
-  - Undergraduate research participation in [Your Topic or Lab Name]
-  - Teaching Assistant – [Subject Name], [Semester]
 
 ---
 
@@ -40,16 +38,11 @@ I'm passionate about **data analysis**, **scientific research**, and making info
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Tools & Libraries  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-
 ---
 
 ## 📫 Contact
 
 - Email: gagnam3@gmail.com  
-- GitHub: [github.com/SeohyunNam](https://github.com/SeohyunNam)]
-- Personal Tech Blog: [https://velog.io/@seohyun_nam/posts]
+- GitHub: github.com/SeohyunNam(https://github.com/SeohyunNam)
+- Personal Tech Blog: https://velog.io/@seohyun_nam/posts
 ---
