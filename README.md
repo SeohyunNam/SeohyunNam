@@ -3,7 +3,7 @@
 ## 🎓 Education
 
 - 📘 Master's Student in Computer Science, Chung-Ang University 
-- 🎓 B.S. in Information and communications Engineering & English Interpretation and Translation, Hankuk university of Foregin Studies
+- 🎓 B.S. in Information and Communications Engineering & English Interpretation and Translation, Hankuk University Of Foregin Studies(HUFS)
 
 ---
 
