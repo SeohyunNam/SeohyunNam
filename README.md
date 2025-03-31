@@ -1,10 +1,5 @@
 # 👋 Hi there! I'm Seohyun Nam
 
-Welcome to my GitHub profile!  
-I'm passionate about **data analysis**, **scientific research**, and making information more insightful through **visualization**.
-
----
-
 ## 🎓 Education
 
 - 📘 Master's Student in Computer Science, Chung-Ang University 
