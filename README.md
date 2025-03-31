@@ -14,17 +14,6 @@
   - Data sources: Scopus & Web of Science
   - Tools: `python`, `matplotlib`, `scikit-learn`
 
----
-
-## 🔥 Experience Highlights
-
-- **Data Analysis Projects**
-  - JIF & CiteScore Trend Analysis
-  - Visualization of multi-journal metrics
-
-- **Research Intelligence**
-
----
 
 ## 🛠 Skills
 
@@ -38,6 +27,6 @@
 ## 📫 Contact
 
 - Email: gagnam3@gmail.com  
-- GitHub: github.com/SeohyunNam(https://github.com/SeohyunNam)
+- GitHub: https://github.com/SeohyunNam
 - Personal Tech Blog: https://velog.io/@seohyun_nam/posts
 ---
