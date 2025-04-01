@@ -1,4 +1,4 @@
-# 👋 Greetings! 
+# 👋 Seohyun Nam 
 
 ## 🎓 Education
 
