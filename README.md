@@ -4,8 +4,8 @@ Hi, I’m very interested in Distributed processing systems such as Hadoop and M
 ## 🎓 Education
 
 - 🎓 Master's Student in Computer Science, Chung-Ang University 
-- 🎓 B.S. Information and Communications Engineering & English Interpretation and Translation, Hankuk University Of Foregin Studies (HUFS)
-
+- 🎓 B.S. Information and Communications Engineering, Hankuk University Of Foregin Studies (HUFS)
+- 🎓 B.S. English Interpretation and Translation, Hankuk University Of Foregin Studies (HUFS)
 ---
 
 ## 📘 Current Research
