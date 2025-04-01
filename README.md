@@ -12,7 +12,6 @@
 - **Journal Metrics Trend Analysis**  
   - Investigating annual trends in **CiteScore** and **Journal Impact Factor (JIF)**
   - Data sources: Scopus & Web of Science
-  - Tools: `python`, `matplotlib`, `scikit-learn`
 
 
 ## 🛠 Skills
