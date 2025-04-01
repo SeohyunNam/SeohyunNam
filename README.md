@@ -2,12 +2,12 @@
 
 ## 🎓 Education
 
-- 📘 Master's Student in Computer Science, Chung-Ang University 
+- 🎓 Master's Student in Computer Science, Chung-Ang University 
 - 🎓 B.S. Information and Communications Engineering & English Interpretation and Translation, Hankuk University Of Foregin Studies (HUFS)
 
 ---
 
-## 🔬 Current Research
+## 📘 Current Research
 
 - **Journal Metrics Trend Analysis**  
   - Investigating annual trends in **CiteScore** and **Journal Impact Factor (JIF)**
