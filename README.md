@@ -16,34 +16,24 @@
 
 ## 🛠 Skills
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3>Languages</h3>
-      <ul>
-        <li>Python</li>
-        <li>R</li>
-        <li>SQL</li>
-        <li>C++</li>
-        <li>JavaScript</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <h3>Stack</h3>
-      <ul>
-        <li>PyTorch</li>
-        <li>TensorFlow</li>
-        <li>Git</li>
-        <li>Docker</li>
-        <li>AWS</li>
-        <li>Ubuntu</li>
-        <li>MariaDB</li>
-        <li>MySQL</li>
-        <li>Apache Spark</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**Languages**  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+**Stack**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 📫 Contact
 
