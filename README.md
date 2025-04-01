@@ -1,4 +1,4 @@
-# 👋 Seohyun Nam 
+#  Seohyun Nam 
 
 ## 🎓 Education
 
