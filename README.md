@@ -31,7 +31,6 @@ Hi, I’m very interested in Distributed processing systems such as Hadoop and M
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache&logoColor=white)
 ![MapReduce](https://img.shields.io/badge/MapReduce-FF9900?style=flat&logo=apache&logoColor=white)
