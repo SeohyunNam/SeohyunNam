@@ -8,11 +8,11 @@ Hi, I’m very interested in Distributed processing systems such as Hadoop and M
 - 🎓 B.S. English Interpretation and Translation, Hankuk University Of Foregin Studies (HUFS)
 ---
 
-## 📘 Current Research
+## 📘 Research Interests
 
-- **Journal Metrics Trend Analysis**  
-  - Investigating annual trends in **CiteScore** and **Journal Impact Factor (JIF)**
-  - Data sources: Scopus & Web of Science
+- Knowledge Sharing on Semantic Web
+- Intelligent Agent Systems
+- Data Mining and Knowledge Discovery in Database
 
 
 ## 🛠 Skills
