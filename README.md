@@ -1,5 +1,5 @@
 #  Seohyun Nam 
-Hi, I’m very interested in Distributed processing systems such as Hadoop and MapReduce for analyzing Large-scale Research database (Scopus, WoS, ScienceDirect)
+Hi, I’m very interested in Distributed processing systems such as Hadoop and Apache Spark for analyzing Large-scale Research Database (Scopus, WoS, ScienceDirect)
 
 ## 🎓 Education
 
