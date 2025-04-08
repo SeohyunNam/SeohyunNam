@@ -1,5 +1,5 @@
 #  Seohyun Nam 
-Hi, I’m very interested in Distributed processing systems such as Hadoop and Apache Spark for analyzing Large-scale Research Database (Scopus, WoS)
+Hi, I’m very interested in Distributed processing systems such as Hadoop and Apache Spark for analyzing Large-Scale Research Database (Scopus, WoS)
 
 ## 🎓 Education
 
