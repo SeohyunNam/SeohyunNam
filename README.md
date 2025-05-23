@@ -44,5 +44,6 @@ Hi, I’m very interested in Distributed processing systems such as Hadoop and A
 
 - Email: gagnam3@gmail.com  
 - GitHub: https://github.com/SeohyunNam
+- Linkedin: https://www.linkedin.com/in/%EC%84%9C%ED%98%84-%EB%82%A8-a74778283/
 - Personal Tech Blog: https://velog.io/@seohyun_nam/posts
 ---
