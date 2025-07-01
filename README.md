@@ -1,4 +1,11 @@
-![My Gitanimal](https://www.gitanimals.org/pet/SeohyunNam.png)
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeohyunNam&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/SeohyunNam?pet-id=727823349874206235"
+    width="600"
+    height="120"
+  />
+</a>
 
 #  Seohyun Nam 
 Hi, I’m very interested in Distributed processing systems such as Hadoop and Apache Spark for analyzing Large-Scale Research Database (Scopus, WoS)
