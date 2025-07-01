@@ -1,3 +1,5 @@
+![My Gitanimal](https://www.gitanimals.org/pet/SeohyunNam.png)
+
 #  Seohyun Nam 
 Hi, I’m very interested in Distributed processing systems such as Hadoop and Apache Spark for analyzing Large-Scale Research Database (Scopus, WoS)
 
