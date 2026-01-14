@@ -8,7 +8,9 @@
 </a>
 
 #  Seohyun Nam 
-Hi, I’m very interested in Distributed processing systems such as Hadoop and Apache Spark for analyzing Large-Scale Research Database (Scopus, WoS)
+I am currently studying experimentally and theoretically how people and agents may maintain reasonable understanding over interaction through formal knowledge and how they can preserve knowledge diversity. 
+
+My long term research interests are related to concurrent representations of the same situation and the relationships among them. It is thus closely related to semantics, understood as the interpretation of representations with regard to their meaning.
 
 ## 🎓 Education
 
