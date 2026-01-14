@@ -1,12 +1,4 @@
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeohyunNam&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/SeohyunNam?pet-id=727823349874206235"
-    width="600"
-    height="120"
-  />
-</a>
-
 #  Seohyun Nam 
 I am very interested in studying experimentally and theoretically how people and agents may maintain reasonable understanding over interaction through formal knowledge and how they can preserve knowledge diversity. 
 
