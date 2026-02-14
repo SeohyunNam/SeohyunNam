@@ -52,4 +52,5 @@ My long term research interests are related to concurrent representations of the
 - GitHub: https://github.com/SeohyunNam
 - Linkedin: https://www.linkedin.com/in/seohyun-nam-a74778283/
 - Personal Tech Blog: https://velog.io/@seohyun_nam/posts
+- Google Scholar: https://scholar.google.com/citations?user=t3oLz7cAAAAJ&hl=ko&oi=sra
 ---
